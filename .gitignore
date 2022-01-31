@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!README.md
+
+!maps
+
+!resource
+resource/*
+!resource/overviews
